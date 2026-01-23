@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+._*
+
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+
+# ML
+*.mlproj/
+*.mlpackage/
+*.mlpackage
+
+# Python
+__pycache__/
+venv/
+labels.txt
